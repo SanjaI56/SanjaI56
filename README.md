@@ -5,6 +5,13 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
+
+<br clear="both">
+
+<img src="https://github.com/SanjaI56/SanjaI56/blob/main/.github/workflows/MAIN.yml" alt="Snake animation" />
+
+###
+
 - 👨‍💻 All of my projects are available at [https://github.com/SanjaI56](https://github.com/SanjaI56)
 
 - 📫 How to reach me **sanjai@gmail.com**
@@ -33,8 +40,3 @@
 
 ###
 
-<br clear="both">
-
-<img src="https://github.com/SanjaI56/SanjaI56/blob/main/.github/workflows/MAIN.yml" alt="Snake animation" />
-
-###
