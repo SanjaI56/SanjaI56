@@ -1,16 +1,16 @@
 <h1 align="center">Hi 👋, I'm Sanjai P</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sanjai56&label=Profile%20views&color=0e75b6&style=flat" alt="sanjai56" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sanjai56" alt="sanjai56" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
-
 
 <br clear="both">
 
 <img src="https://github.com/SanjaI56/SanjaI56/blob/main/.github/workflows/MAIN.yml" alt="Snake animation" />
 
 ###
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sanjai56" alt="sanjai56" /></a> </p>
+
+<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
+
 
 - 👨‍💻 All of my projects are available at [https://github.com/SanjaI56](https://github.com/SanjaI56)
 
