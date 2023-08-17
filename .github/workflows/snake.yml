@@ -1,3 +1,5 @@
+const generateSnakeWorkflow = () => {
+  const content = `
 name: Generate snake animation
 
 on:
@@ -18,7 +20,7 @@ jobs:
       - name: generate snake.svg
         uses: Platane/snk/svg-only@v2
         with:
-          github_user_name: SanjaI56
+          github_user_name: ${'SanjaI56'}
           outputs: dist/snake.svg
 
 
@@ -28,4 +30,13 @@ jobs:
           target_branch: output
           build_dir: dist
         env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GITHUB_TOKEN: ${'${{ secrets.GITHUB_TOKEN }}'}
+`.trim();
+
+  return {
+    file: 'snake.yml',
+    content,
+  };
+};
+
+export { generateSnakeWorkflow };
