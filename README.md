@@ -14,7 +14,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/SanjaI56](https://github.com/SanjaI56)
 
-- 📫 How to reach me **sanjai@gmail.com**
+- 📫 How to reach me **sanjai562002@gmail.com**
 
 - 📄 Know about my experiences [https://github.com/SanjaI56/SanjaI56/blob/main/resume_sanjai.pdf](https://github.com/SanjaI56/SanjaI56/blob/main/resume_sanjai.pdf)
 
